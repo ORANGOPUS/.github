@@ -2,27 +2,27 @@
 
 We're an open-source non-profit development studio working on making tools for creators, streamers, gamers & beyond. Completely 100% free and open-source.
 
-Find out more at: https://orangopus.org
+Find out more at: https://orangopus.thng.my
 
 ## Orangopus Initiatives
 
-**Orangopus Labs** | https://orangopus.org/#labs 
+**Orangopus Labs** | https://orangopus.thng.my/#labs 
 
 Orangopus Labs contains all of our open-source projects that are either in development or experimental. 
 
 **Feedback** :loudspeaker:
 
-https://opus.ad/feedback
+https://feedback.thng.my
 
 **Help** :wave:
 
-Read our various help articles: https://opus.ad/help
+Read our various help articles: https://help.thng.my
 
-Send an email to hey@orangopus.org
+Send an email to hey@thng.my
 
 **Pledge/Contribute** :bulb:
 
-https://opus.ad/collective
+https://collective.thng.my
 
 **Etiquette** :pen_ballpoint:
 
@@ -30,4 +30,4 @@ https://opus.ad/collective
 
 **Invite Your Friends!**
 
-https://opus.ad/discord
+https://dsc.gg/opus
