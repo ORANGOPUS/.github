@@ -1,33 +1,35 @@
-# :wave: Welcome to Orangopus
+# 🐙 Orangopus
 
-We're an open-source non-profit development studio working on making tools for creators, streamers, gamers & beyond. Completely 100% free and open-source.
+An open-source ideas factory: free tools for creators, streamers, gamers and whoever comes next. Everything here is MIT or Apache licensed and built in the open.
 
-Find out more at: https://orangopus.thng.my
+## 🚀 What we're building
 
-## Orangopus Initiatives
+### thng: spatial computing
+| Project | What it is |
+| --- | --- |
+| [**thng-os**](https://github.com/ORANGOPUS/thng-os) | A free, open-source spatial operating system. [os.thng.my](https://os.thng.my) |
+| [**spatial-desktop**](https://github.com/ORANGOPUS/spatial-desktop) | Your Hyprland desktop, Windows VM and apps as panels in WebXR. [Try it](https://spatialdesktop.thng.my/app/) |
+| [**everything-os**](https://github.com/ORANGOPUS/everything-os) | A web desktop for the Orangopus ecosystem: windows, a terminal and Mycel AI chat |
 
-**Orangopus Labs** | https://orangopus.thng.my/#labs 
+### Creator tools
+| Project | What it is |
+| --- | --- |
+| [**dynamix-toolbox**](https://github.com/ORANGOPUS/dynamix-toolbox) | Stream overlays, a touch deck and a portfolio, styled from one panel. [Open it](https://orangopus.github.io/dynamix-toolbox/) |
+| [**ollo**](https://github.com/ORANGOPUS/ollo) | A customisable page of your social media content |
+| [**octobot**](https://github.com/ORANGOPUS/octobot) | An open-source Discord bot |
 
-Orangopus Labs contains all of our open-source projects that are either in development or experimental. 
+### Biome: AI experiments
+| Project | What it is |
+| --- | --- |
+| [**biome**](https://github.com/ORANGOPUS/biome) | A breathable biome, grown with AI |
+| [**mycel-model**](https://github.com/ORANGOPUS/mycel-model) | The open-weight model behind Mycel, Biome's AI companion |
 
-**Feedback** :loudspeaker:
+## 🗄️ The idea archive
 
-https://feedback.thng.my
+Every idea we've shipped stays here, read-only, so it can inspire the next one: Mixer and Glimesh tools (mixlook, meshed, mixer-rich-presence), Touch Portal and Stream Deck plugins for Linux, dynamix-island, PRDisaster, globe and more. [Browse the archive →](https://github.com/orgs/ORANGOPUS/repositories?q=archived%3Atrue)
 
-**Help** :wave:
+## 💬 Get involved
 
-Read our various help articles: https://help.thng.my
-
-Send an email to hey@thng.my
-
-**Pledge/Contribute** :bulb:
-
-https://collective.thng.my
-
-**Etiquette** :pen_ballpoint:
-
-#📰│rules 
-
-**Invite Your Friends!**
-
-https://dsc.gg/opus
+- Chat with us on [Discord](https://dsc.gg/opus)
+- Open an issue or pull request on any active project
+- Email [hey@thng.my](mailto:hey@thng.my)
